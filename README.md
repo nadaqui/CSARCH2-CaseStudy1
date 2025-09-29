@@ -3,11 +3,11 @@
 **Course**: CSARCH2  
 **Section**: S17  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- CO, Stephen Yu  
+- DASAL, Megan Kei Balahadia
+- PEREZ, Patrick Hans Atas
+- QUITAIN, Naysa Dator 
+- TOLENTINO, Nathaniel Paculan  
 
 ---
 
@@ -69,7 +69,7 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
+- **Budget Limit**: ₱20,000  
 - **Final Total**: ₱XX,000  
 - ✅ Within budget / ❌ Over budget  
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
