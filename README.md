@@ -96,14 +96,14 @@ Overall, the project taught us that every PC build is unique and should be based
 - [Group 1 Video Pitch  ](https://youtu.be/ijf8SRre46U)
 
 ## 8. References
-- Vendor links:
+- **Vendor links**:
   - https://pcx.com.ph/?srsltid=AfmBOorcWTdVYNkDM3lEU5KGVlq_-GAcLR4JDvXNQ0JXxDlfGya-Q06x
   - https://ecommerce.datablitz.com.ph
   - https://easypc.com.ph
   - https://dfestore.com
   - https://bermorzone.com.ph  
-- [PCPartPicker build link](https://pcpartpicker.com/user/Patthethicc/saved/#view=zqBZzy)  
-- Sources:
+- [**PCPartPicker build link**](https://pcpartpicker.com/user/Patthethicc/saved/#view=zqBZzy)  
+- **Sources**:
   - https://softwareg.com.au/blogs/computer-hardware/gigabyte-b365m-ds3h-compatible-cpu
   - https://www.gigabyte.com/Motherboard/B365M-DS3H-rev-10/sp
   - https://www.tomshardware.com/reviews/t-force-vulcan-z-ddr4-3200-c16-memory-kit,6163.html
