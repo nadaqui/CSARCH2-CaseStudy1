@@ -60,11 +60,13 @@ Google spreadsheet link: _________
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **Case**: darkFlash DLM21 MicroATX Mid Tower fits both the motherboard and the powersupply. It can also fit USB 20 and USB 3.2 headers.
+- **CPU + Motherboard**: Intel i3-9100F (LGA1151) works with GIGABYTE B365M board (LGA1151 socket, BIOS compatible as long as the version is up to date).  
+- **GPU + Motherboard**: ASUS GT730  uses a PCIe x16 slot, which the GIGABYTE B365M board can provide. 
+- **RAM**: TEAMGROOUP T-Force Vulcan Z RAM supported by motherboard slots (up to 32GB).  
+- **GPU**: ASUS GT730 fits case, PSU wattage sufficient.  
+- **Storage**: Patriot P300 can be placed in the M.2 slots of the motherboard, since it supports NVMe PCIe x4.
+- **PSU**: MSI MAG A550BN (550W) provides adequate wattage for the system and includes the required ATX, CPU, and PICe power connectors.
 
 ---
 
