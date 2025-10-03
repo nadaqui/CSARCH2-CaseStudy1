@@ -19,43 +19,43 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: https://pcpartpicker.com/list/gzbjdb
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
+| CPU             | 	Intel Core i3-9100F 3.6 GHz Quad-Core Processor   | 	$129.00/₱7472.58             | ...   |
+| CPU Cooler      | 	ID-COOLING SE-214-XT ARGB 68.2 CFM CPU Cooler   | 	$17.98/₱1041.53             | ...   |
+| Motherboard     | 	Gigabyte B365M DS3H Micro ATX LGA1151 Motherboard   | 	$147.00/₱8515.26             | ...   |
+| RAM             | 	TEAMGROUP T-Force Vulcan Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory   | 	$37.99/₱2200.65             | ...   |
+| Storage 1       | 	Patriot P300 256 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive   | 	$22.99/₱1331.74             | ...   |
 | Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
+| Graphics Card   | 	Asus GT730-SL-2GD5-BRK GeForce GT 730 2 GB Video Card   | 	$79.99/₱4633.58             | ...   |
+| Power Supply    | 	MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | 	$57.99/₱3359.18             | ...   |
+| Case            | 	darkFlash DLM 21 MicroATX Mid Tower Case   | $64.99/₱3764.67             | The price wasn't listed on PCPartPicker, so it was taken from darkFlash's [official website](https://www.darkflash.us/products/drx70-atx-mid-tower-gaming-pc-case?variant=47361679524090).   |
 | Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| **Total**       |       | **557.93 USD /<br>32,319.19 Php**     |       |
 
 ---
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1JeM1rCT-wYHZ-CKeki3OwyQ-dZs8jBOPjjiMJ2KiysM/edit?usp=sharing  
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| CPU             | 9th Generation Intel Core i3-9100f 3.60GHz CPU   | [Easy PC](https://easypc.com.ph/collections/processor-intel/products/intel-core-i3-9100f-coffee-lake-processor-socket-1151-3-60ghz-6m?variant=39927338860715) | ₱3,895         | ...         |
+| CPU Cooler      | ID-COOLING SE-214-XT ARGB CPU Cooler (Black)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/id-cooling-se-214-xt-argb-cpu-cooler-black)    | ₱995         | ...         |
+| Motherboard     | GIGABYTE B365M-DS3H 9TH GEN MOTHERBOARD   | [DFEStore](https://dfestore.com/shop/00022/0002200002/gigabyte-b365m-ds3h-9th-gen-motherboard) | ₱4,195         | ...         |
+| RAM             | Teamgroup T-Force Vulcan Z 16GB DDR4 3200MHZ CL16-20-20-40 1.35V Desktop Memory (Grey) (TLZGD416G3200HC16F01)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/teamgroup-t-force-vulcan-z-16gb-ddr4-3200mhz-cl16-20-20-40-1-35v-desktop-memory-grey-tlzgd416g3200hc16f01) | ₱1,695         | ...         |
+| Storage 1 (SSD) | Patriot P300 256GB M.2 2280 PCIE GEN3 X4 Solid State Drive   | [Bermor Techzone](https://bermorzone.com.ph/shop/storage-devices/solid-state-drives/patriot-p300-256gb-512gb-1tb-m-2-2280-pcie-gen3-x4-solid-state-drive/?srsltid=AfmBOoqpfr-UuBMiKNEJafLkSBSHFRyHC8zTIvsxbyfDqljRPD_WEJeu) | ₱1,970         | ...         |
+| Storage 2 (HDD) | ...   | ...         | ...         | ...         |
+| GPU             | ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card?srsltid=AfmBOoqJpfH2xhJIi6zQJSeYwQqyWM5UFCEKj7aIlvI07mO8JGyO6Lai)    | ₱3,600         | ...         |
+| PSU             | MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-mag-a550bn-550w-80-bronze-power-supply)   | ₱2,595         | ...         |
+| Case            | DarkFlash M305 Mesh TG Panel Luxury M-ATX PC Case   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/darkflash-m305-mesh-tg-panel-luxury-m-atx-pc-case-black-white)    | ₱1,150         | ...         |
+| Case Fans       | ...   | ...         | ...         | ...         |
+| **Total**       |       |                    | *20,095 Php* | Slightly above budget                        |
 
 ---
 
