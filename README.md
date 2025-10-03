@@ -89,7 +89,7 @@ Overall, the project taught us that every PC build is unique and should be based
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [Group 1 Video Pitch  ](https://youtu.be/ijf8SRre46U)
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
