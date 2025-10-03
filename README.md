@@ -74,9 +74,13 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1JeM1rCT-wYHZ-CK
 
 ## 5. Budget Analysis
 - **Budget Limit**: ₱20,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- **Final Total**: ₱20,095
+- ❌ Over budget by ₱95 (~0.5%) 
+- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.):
+  - Budget mostly allocated on Motherboard, CPU & GPU.
+  - Cuts are done on CPU Cooler and Storage at the cost of the allocation of the main three parts.
+  - PSU is fairly allocated at the cost of it not being modular and limited power headroom.
+  - With a tight budget and limited online shops, it is difficult to find compatible parts that are up to date.
 
 ---
 
@@ -92,7 +96,23 @@ Overall, the project taught us that every PC build is unique and should be based
 - [Group 1 Video Pitch  ](https://youtu.be/ijf8SRre46U)
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- Vendor links:
+  - https://pcx.com.ph/?srsltid=AfmBOorcWTdVYNkDM3lEU5KGVlq_-GAcLR4JDvXNQ0JXxDlfGya-Q06x
+  - https://ecommerce.datablitz.com.ph
+  - https://easypc.com.ph
+  - https://dfestore.com
+  - https://bermorzone.com.ph  
+- [PCPartPicker build link](https://pcpartpicker.com/user/Patthethicc/saved/#view=zqBZzy)  
+- Sources:
+  - https://softwareg.com.au/blogs/computer-hardware/gigabyte-b365m-ds3h-compatible-cpu
+  - https://www.gigabyte.com/Motherboard/B365M-DS3H-rev-10/sp
+  - https://www.tomshardware.com/reviews/t-force-vulcan-z-ddr4-3200-c16-memory-kit,6163.html
+  - https://www.quora.com/What-factors-should-be-considered-when-choosing-RAM-for-a-PC-build-Why-do-different-sizes-and-speeds-of-RAM-exist
+  - https://www.tomshardware.com/reviews/patriot-p300-m2-nvme
+  - https://www.reddit.com/r/buildapc/comments/18s1o5s/is_gt_730_good/#:~:text=No-Actuator-6245,cpu%2C%20resolution%20or%20game%20settings?
+  - https://www.quora.com/If-were-looking-at-gaming-performance-does-the-GT-730-or-Intel-HD-630-graphics-perform-better#:~:text=While%20the%20GT730%20is%20no,1
+  - https://tech4gamers.com/gigabyte-gt-730-review/#:~:text=Pros,Modest%20Gaming%20Performance
+  - www.tomshardware.com/pc-components/power-supplies/msi-mag-a550bn-psu-review#:~:text=Tom%27s%20Hardware%20Verdict,Check%20Walmart
+  - https://www.techreviewer.com/tech-specs/intel-9100f-for-gaming/#:~:text=max%20turbo%20frequency.-,The%209100F%20has%20a%203.60%20GHz%20base%20frequency%2C%20which%20is,with%20a%20high-end%20cooler.
+  - https://www.reddit.com/r/buildapcsales/comments/sj9260/cooler_idcooling_se214xt_120mm_argb_fan_4
 
