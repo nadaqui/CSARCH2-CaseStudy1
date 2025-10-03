@@ -12,8 +12,6 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
 
 With a budget of only P20,000, our group worked on building a general-purpose PC with light gaming capabilities. We prioritized building a system that could handle everyday tasks and while also being able to run games with decent settings. With our limited budget, we had to be resourceful in searching for PC components that were both affordable and functional.
 
