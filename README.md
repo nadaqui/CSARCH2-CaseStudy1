@@ -47,15 +47,15 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1JeM1rCT-wYHZ-CK
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | 9th Generation Intel Core i3-9100f 3.60GHz CPU   | [Easy PC](https://easypc.com.ph/collections/processor-intel/products/intel-core-i3-9100f-coffee-lake-processor-socket-1151-3-60ghz-6m?variant=39927338860715) | ₱3,895         | ...         |
-| CPU Cooler      | ID-COOLING SE-214-XT ARGB CPU Cooler (Black)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/id-cooling-se-214-xt-argb-cpu-cooler-black)    | ₱995         | ...         |
-| Motherboard     | GIGABYTE B365M-DS3H 9TH GEN MOTHERBOARD   | [DFEStore](https://dfestore.com/shop/00022/0002200002/gigabyte-b365m-ds3h-9th-gen-motherboard) | ₱4,195         | ...         |
-| RAM             | Teamgroup T-Force Vulcan Z 16GB DDR4 3200MHZ CL16-20-20-40 1.35V Desktop Memory (Grey) (TLZGD416G3200HC16F01)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/teamgroup-t-force-vulcan-z-16gb-ddr4-3200mhz-cl16-20-20-40-1-35v-desktop-memory-grey-tlzgd416g3200hc16f01) | ₱1,695         | ...         |
-| Storage 1 (SSD) | Patriot P300 256GB M.2 2280 PCIE GEN3 X4 Solid State Drive   | [Bermor Techzone](https://bermorzone.com.ph/shop/storage-devices/solid-state-drives/patriot-p300-256gb-512gb-1tb-m-2-2280-pcie-gen3-x4-solid-state-drive/?srsltid=AfmBOoqpfr-UuBMiKNEJafLkSBSHFRyHC8zTIvsxbyfDqljRPD_WEJeu) | ₱1,970         | ...         |
+| CPU             | 9th Generation Intel Core i3-9100f 3.60GHz CPU   | [Easy PC](https://easypc.com.ph/collections/processor-intel/products/intel-core-i3-9100f-coffee-lake-processor-socket-1151-3-60ghz-6m?variant=39927338860715) | ₱3,895         | Socket LGA1151         |
+| CPU Cooler      | ID-COOLING SE-214-XT ARGB CPU Cooler (Black)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/id-cooling-se-214-xt-argb-cpu-cooler-black)    | ₱995         | Fits in case         |
+| Motherboard     | GIGABYTE B365M-DS3H 9TH GEN MOTHERBOARD   | [DFEStore](https://dfestore.com/shop/00022/0002200002/gigabyte-b365m-ds3h-9th-gen-motherboard) | ₱4,195         | Supports DDR4 RAM         |
+| RAM             | Teamgroup T-Force Vulcan Z 16GB DDR4 3200MHZ CL16-20-20-40 1.35V Desktop Memory (Grey) (TLZGD416G3200HC16F01)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/teamgroup-t-force-vulcan-z-16gb-ddr4-3200mhz-cl16-20-20-40-1-35v-desktop-memory-grey-tlzgd416g3200hc16f01) | ₱1,695         | DDR4-3200 CL16         |
+| Storage 1 (SSD) | Patriot P300 256GB M.2 2280 PCIE GEN3 X4 Solid State Drive   | [Bermor Techzone](https://bermorzone.com.ph/shop/storage-devices/solid-state-drives/patriot-p300-256gb-512gb-1tb-m-2-2280-pcie-gen3-x4-solid-state-drive/?srsltid=AfmBOoqpfr-UuBMiKNEJafLkSBSHFRyHC8zTIvsxbyfDqljRPD_WEJeu) | ₱1,970         | NVMe M.2 slot         |
 | Storage 2 (HDD) | ...   | ...         | ...         | ...         |
-| GPU             | ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card?srsltid=AfmBOoqJpfH2xhJIi6zQJSeYwQqyWM5UFCEKj7aIlvI07mO8JGyO6Lai)    | ₱3,600         | ...         |
-| PSU             | MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-mag-a550bn-550w-80-bronze-power-supply)   | ₱2,595         | ...         |
-| Case            | DarkFlash M305 Mesh TG Panel Luxury M-ATX PC Case   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/darkflash-m305-mesh-tg-panel-luxury-m-atx-pc-case-black-white)    | ₱1,150         | ...         |
+| GPU             | ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card?srsltid=AfmBOoqJpfH2xhJIi6zQJSeYwQqyWM5UFCEKj7aIlvI07mO8JGyO6Lai)    | ₱3,600         | Fits in case         |
+| PSU             | MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-mag-a550bn-550w-80-bronze-power-supply)   | ₱2,595         | 550W, 80+ Bronze         |
+| Case            | DarkFlash M305 Mesh TG Panel Luxury M-ATX PC Case   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/darkflash-m305-mesh-tg-panel-luxury-m-atx-pc-case-black-white)    | ₱1,150         | MicroATX Mid Tower         |
 | Case Fans       | ...   | ...         | ...         | ...         |
 | **Total**       |       |                    | *20,095 Php* | Slightly above budget                        |
 
