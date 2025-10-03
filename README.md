@@ -77,10 +77,10 @@ Example:
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+
+Throughout the process of building a PC, we gained valuable insights about the pricing, availability, and compatibility of components. One major realization was the significant difference in pricing between parts sourced internationally and those bought locally. However, the main challenge our group faced was working with a budget of only P20,000. While other groups had budgets of over 100k, we had very limited flexibility in choosing parts and had to make the most of what was available locally and within our price range. Many components were too expensive for us, which pushed us to look for cheaper alternatives. It was up to us to identify parts that were still functional despite the low cost. This required careful research and constant communication within the group.
+Another important takeaway was the need to carefully check for compatibility between parts. It’s easy to get carried away with choosing parts or finding good deals without making sure they actually work together. We learned that building a PC isn’t just about picking high-quality components. It’s about making sure everything works well as a system to deliver good performance.
+Ultimately, the project taught us that every PC build is unique and should be based on the specific needs of the user. There’s no one fixed solution, and finding the right balance between performance, budget, and compatibility is a process that takes time and experience to execute successfully.
 
 ---
 ## 7. Video pitch
